@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Mezie 👋
 
-<!--
-**Urbanshogun/Urbanshogun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IT Support & Solutions Specialist | Lagos, Nigeria**
 
-Here are some ideas to get you started:
+13+ years of experience in technical support, hardware solutions and IT services. I run **Nanish Tech** (IT services and hardware solutions, Ikeja, Lagos) and **The Tech Desk**, a WhatsApp channel for practical IT support.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+- Technical support and troubleshooting (hardware, software, networks)
+- IT hardware supply, setup and maintenance
+- Cloud fundamentals on Microsoft Azure
+- Project management and client communication
+- [Add tools: Windows Server, Microsoft 365, networking, CCTV, etc.]
+
+## Certifications
+- IBM Technical Support
+- Google Project Management
+- Microsoft Azure Fundamentals (AZ-900)
+
+## Education
+BSc Computer Science, Lagos State University (2012)
+
+## Featured projects
+| Project | What it solves | Link |
+|---|---|---|
+| [Project name] | [One-line problem and result] | [Link] |
+| [Project name] | [One-line problem and result] | [Link] |
+| [Project name] | [One-line problem and result] | [Link] |
+
+## Tools I work with
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+
+## Get in touch
+- 📧 [Email]
+- 💬 [WhatsApp link]
+- 🔗 [LinkedIn]
+- 🏢 Nanish Tech, Ikeja, Lagos
