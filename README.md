@@ -33,7 +33,7 @@ BSc Computer Science, Lagos State University (2012)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 
 ## Get in touch
-- 📧 [Email]
+- 📧 emezie4real@yahoo.com
 - 💬 [WhatsApp link]
-- 🔗 [LinkedIn]
+- 🔗 http://www.linkedin.com/in/emezie-nwokeji-32049422
 - 🏢 Nanish Tech, Ikeja, Lagos
